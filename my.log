@@ -1,0 +1,44 @@
+2022-12-08 13:22:16,339 - main - INFO - <module>: 2 - START main.py
+2022-12-08 13:22:16,339 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:22:23,348 - controller - INFO - main_menu: 22 - user's choice: 1
+2022-12-08 13:22:23,349 - controller - DEBUG - main_menu: 31 - list output
+2022-12-08 13:22:27,488 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:22:30,037 - controller - INFO - main_menu: 22 - user's choice: 2
+2022-12-08 13:22:30,037 - searchcont - DEBUG - searchcontact: 4 - function call - searchcontact
+2022-12-08 13:22:48,144 - searchcont - INFO - searchcontact: 13 - user's choice: 1
+2022-12-08 13:22:53,088 - searchcont - INFO - searchcontact: 36 - open and read the file: myphonebook.txt
+2022-12-08 13:22:53,088 - searchcont - DEBUG - searchcontact: 48 - close file: myphonebook.txt
+2022-12-08 13:23:00,303 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:23:21,993 - controller - INFO - main_menu: 22 - user's choice: 3
+2022-12-08 13:23:21,993 - newcont - DEBUG - newcontact: 31 - function call - newcontact
+2022-12-08 13:23:21,993 - newcont - DEBUG - input_firstname: 4 - function call - input_firstname
+2022-12-08 13:24:24,844 - newcont - INFO - input_firstname: 9 - creat: name - Fan
+2022-12-08 13:24:24,844 - newcont - DEBUG - input_family_name: 13 - function call - input_lastname
+2022-12-08 13:24:28,653 - newcont - INFO - input_family_name: 18 - creat: familyName - Men
+2022-12-08 13:24:28,653 - newcont - DEBUG - input_patronymic: 22 - function call - input_last_ot_name
+2022-12-08 13:25:17,708 - newcont - INFO - input_patronymic: 27 - creat: patronymic - Chel
+2022-12-08 13:25:42,551 - newcont - INFO - newcontact: 36 - creat: phonenamber - 89173837712
+2022-12-08 13:26:36,075 - newcont - INFO - newcontact: 38 - creat: email - fmenchel@2919gmail.com
+2022-12-08 13:26:36,075 - newcont - INFO - newcontact: 40 - creat: contact - [Fan Men Chel, 89173837712, fmenchel@2919gmail.com]
+2022-12-08 13:26:36,075 - newcont - INFO - newcontact: 42 - open file: myphonebook.txt
+2022-12-08 13:26:36,075 - newcont - INFO - newcontact: 44 - writing data to a file: myphonebook.txt
+2022-12-08 13:26:36,075 - newcont - DEBUG - newcontact: 48 - close file: myphonebook.txt
+2022-12-08 13:26:56,350 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:27:24,419 - controller - INFO - main_menu: 22 - user's choice: 4
+2022-12-08 13:27:24,419 - redactcont - DEBUG - redactcontact: 4 - function call - redactcontact
+2022-12-08 13:27:39,850 - redactcont - INFO - redactcontact: 13 - user's choice: 3
+2022-12-08 13:27:54,935 - redactcont - INFO - redactcontact: 33 - open and read the file: myphonebook.txt
+2022-12-08 13:28:23,168 - redactcont - INFO - redactcontact: 52 - writing data to a file: myphonebook.txt
+2022-12-08 13:28:23,168 - redactcont - DEBUG - redactcontact: 54 - close file: myphonebook.txt
+2022-12-08 13:28:49,173 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:29:00,711 - controller - INFO - main_menu: 22 - user's choice: 5
+2022-12-08 13:29:00,712 - delitcont - DEBUG - delitcontact: 4 - function call - delitcontact
+2022-12-08 13:29:12,563 - delitcont - INFO - delitcontact: 13 - user's choice: 1
+2022-12-08 13:29:31,361 - delitcont - INFO - delitcontact: 18 - user input: Word Mag Porid
+2022-12-08 13:29:31,361 - delitcont - INFO - delitcontact: 37 - open and read the file: myphonebook.txt
+2022-12-08 13:29:31,361 - delitcont - INFO - delitcontact: 45 - deleting a contact: [Word Mag Porid, 88999999999, dadbor@2231gmail.com]
+2022-12-08 13:29:31,361 - delitcont - INFO - delitcontact: 56 - writing data to a file: myphonebook.txt
+2022-12-08 13:29:31,361 - delitcont - DEBUG - delitcontact: 58 - close file: myphonebook.txt
+2022-12-08 13:30:02,123 - controller - DEBUG - main_menu: 12 - function call - main_menu
+2022-12-08 13:30:04,715 - controller - INFO - main_menu: 22 - user's choice: 6
+2022-12-08 13:30:04,715 - main - INFO - <module>: 7 - END main.py
